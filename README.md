@@ -19,7 +19,7 @@
 
 ### Jalankan di emulator/device:
 ```bash
-git clone https://github.com/USERNAME/kalkulator-ubinan.git
+git clone https://github.com/kmgmhndra/kalkulator-ubinan.git
 cd kalkulator-ubinan
 flutter pub get
 flutter run
