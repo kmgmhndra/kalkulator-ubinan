@@ -1,16 +1,47 @@
-# kalkulator_ubinan
+# 🌾 Kalkulator Ubinan Padi
 
-A new Flutter project.
+**Kalkulator Ubinan Padi** adalah aplikasi Flutter sederhana yang digunakan untuk menghitung estimasi produktivitas lahan pertanian padi berdasarkan metode ubinan.
 
-## Getting Started
+## 📱 Fitur Utama
 
-This project is a starting point for a Flutter application.
+- 🔢 Perhitungan ubinan berdasarkan panjang & lebar ubinan serta berat gabah.
+- 📊 Estimasi hasil panen per hektar.
+- 🧮 Antarmuka yang sederhana dan mudah digunakan.
+- 🌿 Tampilan bersih dengan nuansa hijau yang menenangkan.
+- 💡 Offline — tidak butuh koneksi internet.
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Instalasi & Menjalankan Proyek
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prasyarat:
+- Flutter versi terbaru
+- Android SDK
+- VS Code atau Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Jalankan di emulator/device:
+```bash
+git clone https://github.com/USERNAME/kalkulator-ubinan.git
+cd kalkulator-ubinan
+flutter pub get
+flutter run
+```
+
+### Build APK release:
+```bash
+flutter build apk --release
+```
+
+Hasil APK:  
+`build/app/outputs/flutter-apk/app-release.apk`
+
+## 📄 Lisensi
+
+Aplikasi ini dikembangkan untuk keperluan edukasi dan dapat digunakan secara bebas.
+
+## 🙌 Kontribusi
+
+Kontribusi, saran, atau pull request sangat diterima! Silakan fork dan submit PR-mu ✨
+
+## 📬 Kontak
+
+Pengembang: Komang Mahendra  
+Email: komangmahendra003@gmail.com
